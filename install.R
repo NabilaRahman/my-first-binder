@@ -1,2 +1,2 @@
 install.packages(c("readr","BiocManager"), dependencies=T )
-BiocManager::install()
+#BiocManager::install()
